@@ -1,0 +1,10 @@
+{
+  "decrypt": [
+    {
+      "a": 7,
+      "b": 13,
+      "operation": "decrypt",
+      "cryptogram": "kpmmhlhcmi"
+    }
+  ]
+}

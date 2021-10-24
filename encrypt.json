@@ -1,0 +1,10 @@
+{
+  "encrypt": [
+    {
+      "a": 5,
+      "b": 7,
+      "operation": "encrypt",
+      "plainText": "ilikepythonandjavascript"
+    }
+  ]
+}
